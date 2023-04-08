@@ -14,8 +14,6 @@
 - 👨‍💼 [Linkedin](https://www.linkedin.com/in/marcello-pagano-2a27b0264/)
 - 👨‍👨‍👦‍👦 [Facebook](https://www.facebook.com/marcellopagano72)
 
-<hr><br>
-
 ## Hobby
 - 🎹 music
 - 🏊 swimming
