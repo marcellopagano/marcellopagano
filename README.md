@@ -1,16 +1,23 @@
-### Hi there 👋
+# 👋 Hello coders, I'm Marcello Pagano
+🖥️ Hi, my name is Marcello Pagano and I am a computer technician (ICT) with more than twenty years of experience in Microsoft Windows systems, my skills also concern desktop/laptop hardware interventions.
 
-<!--
-**marcellopagano/marcellopagano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr><br>
 
-Here are some ideas to get you started:
+🌐 Since 2015 I have been passionate about programming related to the web world, after a brief experience with php I immediately became interested in everything related to the javascript world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr><br>
+📖 The study of JavaScript consequently brought me to know technologies such as: Node, MySQL, MongoDb and TypeScript.
+
+<hr><br>
+
+## Contact
+- 👨‍💼 [Linkedin](https://www.linkedin.com/in/marcello-pagano-2a27b0264/)
+- 👨‍👨‍👦‍👦 [Facebook](https://www.facebook.com/marcellopagano72)
+
+<hr><br>
+
+## Hobby
+- 🎹 music
+- 🏊 swimming
+- 📚 reading
+- 📽️ movie
