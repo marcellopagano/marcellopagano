@@ -6,7 +6,7 @@
 🌐 Since 2015 I have been passionate about programming related to the web world, after a brief experience with php I immediately became interested in everything related to the javascript world.
 
 <hr><br>
-📖 The study of JavaScript consequently brought me to know technologies such as: Node and TypeScript.
+📖 The study of JavaScript consequently brought me to know technologies such as: Node, TypeScript and React.
 
 <hr><br>
 
@@ -15,6 +15,8 @@
 - CSS
 - JavaScript
 - TypeScript
+- React
+- Astro
 - Node
 - Express.js
 - MongoDB
